@@ -1,0 +1,2 @@
+docker-javastandalone7
+======================
